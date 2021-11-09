@@ -1,0 +1,7 @@
+{
+    "STATIC": ["./views/assets/*"],
+    "welcome": {
+        "URL": ["/"],
+        "GET": "get_welcome"
+    }
+}
